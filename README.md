@@ -23,23 +23,6 @@ I joined UBS as a summer intern in 2019 and have grown to Associate Director in 
 - 🤝 Looking to **own product features end to end** and work with teams building user-centric, AI-powered platforms
 - 📍 Based in **Pune, India**
 
-```js
-const pankaj = {
-  role: "Full-stack developer",
-  company: "UBS",
-  location: "Pune, India",
-  stack: ["C#", ".NET", "React", "Azure", "Python"],
-  focus: "AI-enabled platforms",
-  experience: "6+ years"
-};
-```
-
-## 📈 Impact
-
-| 6+ | $10M+ | 100,000+ | 16 |
-|:--:|:--:|:--:|:--:|
-| Years of experience | Azure cost saved through automation | Machines covered by an on-demand hibernation feature | Certifications |
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -99,20 +82,12 @@ const pankaj = {
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **Hybrid Knowledge Base Generator** | AI-powered proof of concept that combines ticket logs, wiki content and user behaviour with LLMs to automate IT support articles. Cut article creation time by an estimated 60–70%. | Azure OpenAI, RAG, .NET Core, Azure Functions, Cognitive Search, LangChain |
-| **GoodGrub** | Full-stack web app connecting households, restaurants and vendors with NGOs and volunteers to rescue surplus food, with geo-location matching, auto-expiry and an impact dashboard. | React, Node.js, Express, MongoDB, Mapbox, Tailwind CSS |
-| **OnePay** | Paperless receipt solution for retail stores that uses QR codes to move receipts from vendor to customer. Selected for Google's Build for Digital India programme. | HTML, CSS, JavaScript, PHP |
-| **Saransh** | Extractive text summariser for Marathi articles, built to help elderly readers. 200+ articles summarised. | Python, NLP, TextRank |
-| **Mr. Secretary** | Voice-based conversational assistant answering queries across six topic domains in real time. | NLP, ML, MySQL |
-| **Traffic CEO** | Dynamic traffic signal control that estimates vehicle density from road footage. | Python, OpenCV |
-
-## 🏆 Highlights
-
-- 🌟 **Innovation Star (Nov 2026), UBS:** built an on-demand workspace hibernation feature scaled to 100,000+ machines
-- 💰 **Outstanding Performer (Jun 2024), UBS:** automated daily workspace log-off, saving more than $10M in idle Azure spend
-- 🥇 **Winner, End User Services OpenAI Hackathon (May 2023):** Log Analysis using ChatGPT
-- 🎓 **LEAP Talent Programme (May 2026):** completed UBS's flagship 9-month leadership programme
-- 🤝 **Volunteer and mentor:** led 140+ volunteers testing a GenAI edtech app, and taught digital literacy to 70+ underprivileged students
+| [**Hybrid Knowledge Base Generator**](https://upankaj.github.io/#projects) | AI-powered proof of concept that combines ticket logs, wiki content and user behaviour with LLMs to automate IT support articles. Cut article creation time by an estimated 60–70%. | Azure OpenAI, RAG, .NET Core, Azure Functions, Cognitive Search, LangChain |
+| [**GoodGrub**](https://upankaj.github.io/#projects) | Full-stack web app connecting households, restaurants and vendors with NGOs and volunteers to rescue surplus food, with geo-location matching, auto-expiry and an impact dashboard. | React, Node.js, Express, MongoDB, Mapbox, Tailwind CSS |
+| [**OnePay**](https://upankaj.github.io/#projects) | Paperless receipt solution for retail stores that uses QR codes to move receipts from vendor to customer. Selected for Google's Build for Digital India programme. | HTML, CSS, JavaScript, PHP |
+| [**Saransh**](https://upankaj.github.io/#projects) | Extractive text summariser for Marathi articles, built to help elderly readers. 200+ articles summarised. | Python, NLP, TextRank |
+| [**Mr. Secretary**](https://upankaj.github.io/#projects) | Voice-based conversational assistant answering queries across six topic domains in real time. | NLP, ML, MySQL |
+| [**Traffic CEO**](https://upankaj.github.io/#projects) | Dynamic traffic signal control that estimates vehicle density from road footage. | Python, OpenCV |
 
 ## 📜 Certifications
 
